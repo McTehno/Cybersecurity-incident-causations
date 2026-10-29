@@ -1,0 +1,36 @@
+ANALIZA VIROV PODATKOV
+
+
+EuRepoC (European Repository of Cyber Incidents)
+
+Sestavlja ga Univerza v Heidelbergu, Sciences Po (Pariz), nemski SWP (Stiftung Wissenschaft und Politik), ter raziskovalni center Cyberis.
+
+Podatki nastajajo:
+OSINT- uporabljajo medijska porocila, objave CERT-ov (odzivnih centrov), vlad, varnostnih podjetij in akademske studije.
+Filter - ne morejo vsi napadi vstopiti not, mora imeti strateski vpliv ali sistemsko pomembnost za evropske drzave, njihove partnerice ali globalno varnost.
+Clovesko preverjanje - vsak incident se rocno oznaci in preveri po standardizirani kodni semi, kjer se mora dolocati, razlog napada, tip, potencialni vir, tarca, ter se vse to uvrscati v dataset
+
+Razlicni dataseti: 
+Attributions - kdo stoji za napadom ter stopnja zanesljivosti (koliko so prepricani da je ugotovitev tocna) 
+Reciever - kdo je tarca napada, sektor (infrastruktura, vladine agencije, finance), tip organizacije (javna, zasebna..)
+Global - ogromni globalni, tudi neevropski napadi
+
+
+Maryland CISSM Cyber Events Database
+
+Sestavlja ga CISSM (Center for International and Security Studies at Maryland) na Univerzi v Marylandu. 
+
+Podatki nastajajo: 
+OSINT- ful podobno eurepocu, ampak veliko vecji politiski in varnostno strateski fokus
+Dvojno kodiranje - razvijalce pogosto postavljajo na neodvisno analizo dogodkov ter primerjajo rezultate, da dobijo objektivno porocilo
+Metodoloski povdarek - tudi gledajo vektore napada, ter motive in posledice
+
+
+Zakaj bi zlivali tadva dataseta?
+
+a) motivi napadalcev, kot so finacna korist, kibernetsko vohunjenje hacktivism itn (CISSM)
+b) metrika vpliva in skode (CISSM) 
+
+Metodologije:
+
+CISSM https://cybereventsdatabase.org/methodology
