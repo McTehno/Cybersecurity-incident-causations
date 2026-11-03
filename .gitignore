@@ -1,0 +1,36 @@
+
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+
+# Environment and editor
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+
+# OS and temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.log
+~$*
+
+# Large raw datasets
+/usa/data/raw/
+
+# Exploratory figures not retained in final analysis
+/usa/figures/economic/combined/static/05_04_top3_states_per_billion_gdp.png
+/usa/figures/economic/combined/static/05_05_state_population_distribution.png
+/usa/figures/economic/combined/static/05_06_top3_states_population_filtered.png
+/usa/figures/economic/combined/static/05_08_top10_states_eb_smoothed.png
+/usa/figures/economic/combined/static/05_13_annual_gdp_pearson_correlations.png
+/usa/figures/economic/combined/static/05_17_economic_pairplot_2023.png
+/usa/figures/economic/combined/interactive/05_19_sector_economic_bubble_matrix_2023.html
+
