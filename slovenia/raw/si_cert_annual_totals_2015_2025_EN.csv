@@ -1,0 +1,12 @@
+﻿year,country,incidents_total,source_document,source_pages,data_version,note
+2015,Slovenia,1925,SI-CERT_LP_2015.pdf,annual summary / historical trend,Later SI-CERT historical series,2015 original report shows 1924 but later historical series 1925
+2016,Slovenia,2281,SI-CERT_LP_2016_2017.pdf,annual summary / historical trend,Original annual report,
+2017,Slovenia,2300,SI-CERT_LP_2016_2017.pdf,annual summary / historical trend,Original annual report,
+2018,Slovenia,2431,SI-CERT_LP_2018.pdf,annual summary / historical trend,Original annual report,
+2019,Slovenia,2733,SI-CERT_LP_2019.pdf,annual summary / historical trend,Original annual report,
+2020,Slovenia,2775,SI-CERT_LP_2020.pdf,annual summary / historical trend,Original annual report,
+2021,Slovenia,3177,SI-CERT_LP_2021.pdf,annual summary / historical trend,Original annual report,
+2022,Slovenia,4123,Porocilo-o-kibernetski-varnosti_SI-CERT_2022.pdf,annual summary / historical trend,Original annual report,
+2023,Slovenia,4280,Porocilo-o-kibernetski-varnosti_SI-CERT_2023.pdf,annual summary / historical trend,Original annual report,
+2024,Slovenia,4587,Porocilo-o-kibernetski-varnosti_SI-CERT_2024.pdf,annual summary / historical trend,Original annual report,2024 revised to 4499 in 2025 category table
+2025,Slovenia,6196,Porocilo-o-kibernetski-varnsoti-SI-CERT_2025.pdf,annual summary / historical trend,Original annual report,
