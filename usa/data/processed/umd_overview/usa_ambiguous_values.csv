@@ -1,0 +1,175 @@
+Column,Value,Count
+cust_data,None reported,174
+cust_data,Undetermined,45
+cust_data,None Reported,8
+cust_data,Personal Information Exposure Status Currently Undetermined Per Available Public Reports,3
+cust_data,Personal Data Exposure Status Remains Undetermined Per Available Reports Currently,3
+cust_data,Yes; Amount and type undetermined,3
+cust_data,"Undisclosed amount SSNs, financial account info, driverÃ¢â‚¬â„¢s license & passport numbers",1
+cust_data,Sensitive personal data of an unknown number of individuals: names and Social Security numbers.,1
+cust_data,Partial payment card details (card type and last four digits) for an undetermined number of customers,1
+cust_data,Undisclosed number of casino customers and health patients; data included PII and transaction records,1
+cust_data,"Undisclosed amount of personal and health data including names, addresses, dates of birth, Social Security numbers, driverÃ¢â‚¬â„¢s license numbers, financial account information, electronic signatures, health insurance information, medical information, and prescription information confirmed stolen",1
+cust_data,"Undisclosed amount of personal and financial data including names, bank routing numbers, direct deposit account information, and other Coast Guard personnel records confirmed stolen",1
+cust_data,Health information (PHI) reported exposed (details not specified in article preview),1
+cust_data,Undisclosed; same as org_data (health / patient records),1
+cust_data,Applicant information exposed publicly on website; exact fields undetermined,1
+cust_data,Customer account data reportedly stolen; completeness of records remains undetermined,1
+cust_data,Customer or citizen personal information exposure remains undetermined at present.,1
+cust_data,"Yes Ã¢â‚¬â€œ sensitive personal information (names, Social Security numbers, driverÃ¢â‚¬â„¢s license or other government IDs, and financial account data) of an undetermined number of individuals may have been accessed.",1
+cust_data,"Includes financial (bank, payroll) and personal (name, contact, National Insurance or Social Security) data; volume undetermined",1
+cust_data,"Personal information contained in court files, including Social Security numbers, driverÃ¢â‚¬â„¢s license numbers and credit card numbers for an undisclosed number of individuals whose records were accessed between October 25 and October 30, 2024.",1
+cust_data,~106 GB of data; names; Social Security numbers; protected health information; number of individuals undetermined,1
+cust_data,"Unknown number of individuals; personal and protected health information including names, dates of birth, Social Security numbers, contact information, medical and insurance data",1
+cust_data,Potential private information released; affected individuals to be notified if identified; number and data elements not reported,1
+cust_data,Customer data accessed; specific count and data fields not reported in source,1
+cust_data,500 individuals affected; specific data types not reported,1
+cust_data,"Undetermined number of guests affected; exposed data included names, email addresses, phone numbers, postal addresses, reservation numbers, dates of stay, special requests, and other reservation details; payment and banking information was not exposed",1
+cust_data,Undetermined amount of personal or contact data exposed; exact fields not fully confirmed in public reporting,1
+cust_data,"Undetermined number of customers affected; lawsuits alleged exposure or theft of Social Security numbers, addresses, phone numbers, login credentials, and other personal information",1
+cust_data,"Unknown number of individuals: names confirmed; additional personal information may have included Social Security numbers, financial account details, payment card information, dates of birth, email addresses, phone numbers, and driver's license numbers",1
+cust_data,"Undetermined number of individuals affected; sensitive personal information may have been accessed, including names, addresses, dates of birth, driver’s license numbers, Social Security numbers, benefit enrollment information, health insurance numbers, and medical information",1
+cust_data,"Unknown number of The Oncology Institute patients; patient data affected, potentially including names, dates of birth, Social Security numbers, health insurance member numbers, provider names, insurer names, primary insured information, demographic data, health information, and health insurance information",1
+cust_data,"Unknown number of individuals: names, dates of birth, health insurance information, health insurance billing and payment information, member/person/certificate/coverage identification numbers, dates of coverage, and in some cases financial account information",1
+cust_data,"Unknown number of clients: names, addresses, Social Security numbers, driver's license numbers, financial information including account or credit/debit card numbers, medical information, health insurance information, and dates of birth",1
+cust_data,"More than 3 million hunting and fishing license customer records may have been obtained, including driver's license information, passport numbers if provided, email addresses, telephone numbers, and residential addresses; Social Security numbers, dates of birth, financial information, and records of minors were not reported affected",1
+cust_data,"A 5 GB proof-of-concept dump contained California Water Service customer billing data, including names, service addresses, telephone numbers, account numbers, and payment histories; records from the Chico District were independently confirmed, but the total number of affected customers was not reported",1
+cust_data,Client and consumer-related legal and regulatory files were reportedly published; the number of affected clients and individuals was not reported,1
+cust_data,"Client-related litigation files from multiple matters, including documents concerning litigation arising from a 2019 fatal helicopter crash; the number of affected clients or individuals was not reported",1
+cust_data,Names and Social Security numbers were alleged to have been exposed; the number of affected clients or individuals was not reported,1
+cust_data,"Unknown number of residents or other individuals; names, Social Security numbers, driver's-license and state-identification numbers, financial account and payment-card numbers, usernames, email addresses, passwords, and security questions and answers",1
+cust_data,"Unknown number of individuals; copied files may have contained names, addresses, dates of birth, treatment and diagnostic information, health-insurance information and policy numbers, Social Security numbers, and financial-account information",1
+cust_data,"None reported; NAIC reported no evidence that personally identifiable information, employee information, policyholder or producer information, payment information, banking information, or financial-account data was acquired",1
+cust_data,"At least 983 individuals reported affected in Texas and Massachusetts; nationwide total undetermined; names and, depending on the individual, dates of birth, Social Security or tax identification numbers, driver's license or state identification numbers, passport numbers, financial account numbers, and credit or debit card numbers with expiration dates or security codes",1
+cust_data,"Undetermined; the city has not confirmed whether resident, employee, utility-customer, or other personal information was accessed",1
+cust_data,"An undisclosed number of individuals, including at least 11 Vermont residents; affected information may have included names and Social Security numbers.",1
+cust_data,"Undetermined number of patients; personally identifiable information and protected health information. Social Security numbers, financial account data, and payment card data were not stored in the affected systems.",1
+cust_data,"At least 1,366 individuals across Texas (873), Massachusetts (480), and Vermont (13), with the nationwide total undetermined; names, addresses, dates of birth, Social Security numbers, driver's license numbers, email addresses, phone numbers, financial account codes and account numbers, credit and debit card information, investment information, and other tax-filing data",1
+cust_data,"Part of approximately 40 GB claimed by Akira; client financial records, Social Security numbers, driver's license data, passport data, and audit working papers. The firm separately confirmed that approximately 55,000 files were stolen and encrypted; affected client count undetermined",1
+cust_data,"The verified searchable dataset contains 228,651 rows with names, email addresses, phone numbers, passport information, and driver's-license information; the number of distinct people and their relationship to Novum were not reported.",1
+cust_data,"The verified searchable dataset contains 1,132,341 rows with names, dates of birth, Social Security numbers, email addresses, phone numbers, and street addresses; the number of distinct people was not reported. Campbell said the affected platform could also contain medical, insurance, financial, account, and government-identification data.",1
+cust_data,"The verified searchable dataset contains 2,127,785 rows with names, dates of birth, Social Security numbers, email addresses, phone numbers, and street addresses; the number of distinct people and their relationship to Quest Health Solutions were not reported.",1
+cust_data,"An undetermined quantity of customer information described by Upbound as non-sensitive was obtained and used to facilitate fraudulent lease-to-own agreements through Acima, enabling fraudsters to obtain merchandise after Acima paid participating retailers",1
+cust_data,An undetermined amount of members' personally identifiable information and protected health information was potentially accessed or acquired through three compromised employee email accounts; the affected-member count and specific data elements were not disclosed,1
+cust_data,"18,598 records containing names, email addresses, phone numbers, and street addresses; the affected individuals' relationship to Motor Controls was not specified.",1
+cust_data,"At least 500 total affected individuals reported to HHS; final total undetermined; current and former residents, patients, and other affiliated individuals; information may have included names, addresses, dates of birth, Social Security numbers, taxpayer identification numbers, financial account and payment card information, medical histories, disability information, diagnostic, prescription, physician and treatment information, medical record numbers, health insurance information, driver’s licenses, and patient documents and photographs",1
+cust_data,"Undetermined number of patients; information varied by individual and may have included first and last names, dates of birth, email addresses, telephone numbers, Social Security numbers, health information, and health insurance information",1
+cust_data,"Undetermined number of patient records within the 33,107 affected individuals; exposed information varied by individual and may have included names, addresses, dates of birth, Social Security numbers, medical information related to hospital visits, and financial information",1
+cust_data,Undetermined number of individuals; compromised emails may have contained confidential information including Social Security numbers; exact data fields and affected population under review,1
+cust_data,"Undetermined number of customers; DCHA did not disclose specific fields; Interlock claimed passports and personal data of clients and District residents, not independently verified",1
+cust_data,"11,086 individual records; names and driver's license information; relationship to AIL Hospitality Group not specified",1
+cust_data,"At least 7 Vermont residents confirmed in a regulatory filing; financial account codes and credit and debit account information were exposed, while the total number of affected customers remains undetermined",1
+cust_data,"DireWolf claimed approximately 253 GB of data including potential kidney donor names, medical information, transplant-suitability information, and donor and recipient records; number of affected individuals undetermined",1
+cust_data,Payment-card information and personal information submitted through a fraudulent MyChart-branded Medicare Kit survey; exact additional fields undetermined,1
+duration,Undetermined,102
+duration,None reported,2
+duration,Multi-day disruption beginning in November 2024; full duration not reported,1
+duration,"Undetermined; data connectors stopped working on April 4, but restoration timing was not reported",1
+duration,"Production resuming as of May 13, 2026; full disruption duration not reported",1
+duration,Until county network restoration; full duration not reported,1
+duration,Website offline as of May 22; full outage duration not reported,1
+duration,The attackers remained in the environment for approximately one to two months before deploying ransomware; exact intrusion and encryption dates were not reported,1
+duration,At least five days for phone disruption; the duration of computer unavailability was not reported,1
+duration,"The attacks were still affecting service 12 hours after the 2026-06-22 launch; exact start, end, and cumulative downtime not reported",1
+duration,Undetermined; the incident was discovered and contained on 2026-06-25,1
+duration,"At least 5 days, from 2026-04-04 through 2026-04-08, for phone disruptions; duration of computer outages and preceding unauthorized access was not reported",1
+duration,"Undetermined; the incident affected systems on 2026-06-08 and all systems were restored by 2026-06-18, establishing a maximum recovery window of 10 days",1
+duration,"At least three days (July 3-6, 2026); exact restoration date undetermined",1
+duration,Undetermined; production was suspended by July 16 and a majority had resumed by July 27.,1
+duration,Undetermined; City operations had been restored by August 26,1
+duration,Undetermined; operators detected the manipulation and switched to manual control before equipment damage or service interruption,1
+event_subtype,Undetermined,522
+event_subtype,"Data Attack,Undetermined",30
+event_subtype,"Undetermined,Exploitation of Application Server",3
+event_subtype,"Undetermined,Undetermined",1
+ip,None reported,983
+ip,Undetermined,35
+ip,Not Reported,1
+magnitude,Undetermined,28
+magnitude,Entire server contents (undisclosed file/size count),1
+magnitude,None reported,1
+magnitude,Files were stolen and systems were encrypted with DragonForce ransomware; the resulting operational impact was not reported,1
+magnitude,The district's primary website was disrupted and an alternate website was used; broader operational effects were not reported,1
+magnitude,Affected municipal systems were isolated and rebuilt from clean environments or recovered through established procedures; overall public-service impact undisclosed,1
+magnitude,Data encryption reported; operational impact not reported,1
+org_data,None reported,344
+org_data,Undetermined,70
+org_data,Operational documents and internal business records exposure status remains undetermined,12
+org_data,Operational Documents And Internal Business Records Exposure Status Remains Undetermined,6
+org_data,Internal operations or proprietary business records exposure status remains undetermined,5
+org_data,Yes; Amount and type undetermined,5
+org_data,Internal operational records exposure undetermined based on current public reporting,4
+org_data,None Reported,3
+org_data,Internal operations or proprietary records exposure status remains currently undetermined,3
+org_data,Internal Operational Records Exposure Status Currently Undetermined Per Available Reports,3
+org_data,Operational Records Exposure Status Remains Undetermined Per Available Reports Currently,3
+org_data,1.8 TB exfiltrated; PII and institutional data stolen (exact data types undisclosed),1
+org_data,Not Reported,1
+org_data,"Undisclosed; PHI including names, contact information, dates of birth, driverÃ¢â‚¬â„¢s license numbers, medical diagnoses or conditions, and insurance details",1
+org_data,"undisclosed count; project files, blueprints, client contracts, and internal HR or financial records",1
+org_data,Internal business records possibly accessed during breach; exact details undetermined,1
+org_data,Internal business records may be accessed; investigation ongoing; details undetermined,1
+org_data,Internal emails contained business information; exact scope remains undetermined,1
+org_data,Internal vendor systems possibly altered to inject scripts; specifics undetermined,1
+org_data,Internal operational information exposure status remains undetermined pending ongoing investigation.,1
+org_data,Internal Operational Records Exposure Status Remains Undetermined At Present,1
+org_data,Yes (unknown count); employee personally identifiable information including names and Social Security numbers,1
+org_data,"Undisclosed number of credentials from over 140,000 tenant accounts and millions of records stolen, including email addresses, usernames, hashed passwords, LDAP display names, and other SSO data; legacy Ã¢â‚¬Å“Gen 1/Oracle Cloud ClassicÃ¢â‚¬Â servers impacted.",1
+org_data,"Yes (unknown count); employee/driver PII Ã¢â‚¬â€ names, Social Security numbers, driverÃ¢â‚¬â„¢s license numbers",1
+org_data,Undisclosed volume of internal HR and administrative insurance data exfiltrated including employee and client information,1
+org_data,Undisclosed volume of internal administrative/billing files copied from CKR systems,1
+org_data,Unknown number of systems impacted. No classified data confirmed,1
+org_data,"Undisclosed volume of employee, supplier, and client records stolen from HR and client management systems",1
+org_data,"Undetermined Ã¢â‚¬â€œ reports focus on unauthorized access to court files but do not specify whether purely internal, non-personal records were taken beyond case-related documents.",1
+org_data,Undisclosed state government data exfiltrated (officials reported some data moved outside the state network; not attributed to DMV),1
+org_data,Oracle E-Business Suite environment data (exact tables/records not specified),1
+org_data,"Undetermined (Akira claimed theft of employee, customer, and financial documents; unconfirmed).",1
+org_data,Internal data (not specified),1
+org_data,"Undisclosed amount Ã¢â‚¬â€ personally identifiable and health information including names, addresses, dates of birth, Social Security numbers, driverÃ¢â‚¬â„¢s license or state ID numbers, medical diagnosis and treatment details, clinical information, financial account and insurance data",1
+org_data,Sensitive internal data not specified,1
+org_data,"Undisclosed amount Ã¢â‚¬â€ sensitive defense-contractor information including proprietary, engineering, and technical data accessed through compromised edge devices and OWA portals",1
+org_data,10000 organizations affected; None reported individual records stolen;,1
+org_data,"Interlock later claimed confidential financial documents, organization contact information, customer and employee personal data, building plans and blueprints, and incident information; victim-confirmed data theft was not reported in the April 30 source",1
+org_data,"Data exfiltration confirmed in Storm-1175 intrusions affecting Australia, the United Kingdom, and the United States; specific data types and volume for the United States victim not reported",1
+org_data,Undetermined amount of source-code repository data accessed; Trellix said a portion of its source code repository was breached and found no evidence that source-code release or distribution processes were affected,1
+org_data,Undetermined amount of internal data exfiltrated before encryption; specific data types and volume not publicly reported,1
+org_data,"Undetermined amount of allegedly compromised Standard-Examiner data claimed by Qilin; no public confirmation of data samples, data types, or volume",1
+org_data,Subset of SailPoint GitHub repositories accessed; exact repository contents and volume not reported; no evidence customer data in production or staging environments was accessed,1
+org_data,Undetermined number of Pitney Bowes employee records exposed; data included job titles and other employee-related contact fields in a subset of leaked records,1
+org_data,Undetermined amount of internal or limited-system data accessed; exact internal-only volume not separately reported,1
+org_data,Confidential company files were stolen; the volume and contents were not reported,1
+org_data,Confidential litigation files and sensitive employee information were reportedly stolen and published; the total volume was not reported,1
+org_data,Limited company data accessed through two compromised employee accounts; specific organizational contents were not reported,1
+org_data,Quantity undetermined; emails from one employee email account may have been accessed or removed,1
+org_data,"Quantity undetermined; internal participant ratings and grading notes, political classifications, schedules, moderator materials, completed questionnaires, and retreat documents",1
+org_data,"An undetermined number of current and former employee records potentially accessed; data may have included names, Social Security numbers, government-issued identification, financial account information, and passport numbers or images",1
+org_data,"Undetermined; INC Ransom posted alleged data samples, but the City of Acworth has not confirmed data theft or described the material",1
+org_data,"64,930 leaked records contained names, email addresses, phone numbers, and street addresses; the relationship of the individuals to Wikoff was not specified. A subsequent company notice confirmed that acquired files contained names, dates of birth, and Social Security numbers. Chaos also claimed possession of board financial reports, but that claim was not independently verified.",1
+org_data,An undetermined number of company files was exfiltrated from certain systems; the contents and volume were not disclosed,1
+org_data,An undetermined quantity of company documents was obtained; their nature and contents were not disclosed,1
+org_data,145 GB of corporate cloud data was reportedly exfiltrated from Microsoft 365 services; detailed internal file categories were not reported.,1
+org_data,"4,156 records containing email addresses; the records' relationship to Norwest was not specified.",1
+org_data,"At least 2,295 individuals documented in Texas (1,959) and Massachusetts (336), with the nationwide total undetermined; names, postal and email addresses, dates of birth, Social Security numbers, passport numbers, bank account numbers, health information, performance evaluations, payroll information, and other employment data. Cl0p reportedly leaked 870 GB of files it attributed to Estée Lauder",1
+org_data,"Undetermined number of employee records within the 33,107 affected individuals; exposed information varied by individual and may have included names, addresses, dates of birth, Social Security numbers, medical information related to hospital visits, and financial information",1
+org_data,"Undetermined amount; DCHA confirmed a limited subset of agency data including sensitive information was compromised; Interlock claimed 1.6 TB of confidential information and databases, not independently verified",1
+org_data,"Internal organizational documents were reportedly included among approximately 253 GB and roughly 180,000 files claimed stolen by DireWolf; exact organizational-data volume undetermined",1
+org_data,Provider reimbursement-account and payment information accessible through the HUSKY provider portal; exact organizational data quantity undetermined,1
+scope,Undetermined,33
+scope,Global operations impacted across multiple regions (extent undisclosed),1
+scope,Land records and real-estate transaction systems supported by C Systems Software for Trumbull County and other customers; resident and property data from an undisclosed number of individuals potentially exposed; county offices relied on manual processes during the outage.,1
+scope,None reported,1
+scope,One undisclosed U.S. services company; affected system count and stolen data volume were not reported,1
+scope,"District-wide systems, internet services, computer infrastructure, staff email and accounts, and district-issued devices requiring review or reimaging; the exact number of systems and devices was not reported",1
+scope,Internet-connected automatic tank gauge systems at gas stations in multiple U.S. states; exact number not reported,1
+scope,"Portions of River Financial Corporation's server environment and certain operations, including systems supporting River Bank & Trust; exact systems and branches were not reported",1
+scope,The public website and files stored within the district's computer network; the number of affected systems was not reported,1
+scope,SAND: Raiders of Sophie's online game-server infrastructure; number of affected players and attack volume not reported,1
+scope,"Certain business computer systems and phone systems across multiple Karl Auto Group dealerships; thousands of customers were notified, but the exact number of affected systems, locations, and individuals was not reported",1
+scope,"Certain city computer systems and network infrastructure; affected departments, services, and number of systems were not reported",1
+scope,Some city systems and online services; exact number undetermined,1
+scope,The company network and various internal systems were shut down or suspended; the number of affected systems was not reported.,1
+scope,At least one compromised public Wi-Fi gateway; per-operator count undetermined,1
+scope,Secret Neighbor backend systems across all supported platforms; affected player count undetermined,1
+scope,"Certain City computer systems; exact departments, applications, and number of systems undisclosed",1
+scope,Portions of the City's technology environment; exact systems and number of devices undisclosed,1
+scope,Company computer network systems; exact number of affected devices and servers undisclosed,1
