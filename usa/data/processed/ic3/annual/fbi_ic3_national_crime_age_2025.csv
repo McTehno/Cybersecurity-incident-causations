@@ -1,0 +1,157 @@
+﻿year,crime_type,age_group,complaints,loss_usd,count_source_page,loss_source_page,quality_note,source_report
+2025,Advanced Fee,Under 20,288,327823,32,33,,2025_IC3Report.pdf
+2025,Advanced Fee,20 - 29,991,7081874,32,33,,2025_IC3Report.pdf
+2025,Advanced Fee,30 - 39,1170,13311458,32,33,,2025_IC3Report.pdf
+2025,Advanced Fee,40 - 49,1120,18801337,32,33,,2025_IC3Report.pdf
+2025,Advanced Fee,50 - 59,1169,25811979,32,33,,2025_IC3Report.pdf
+2025,Advanced Fee,60+,2020,65877660,47,48,"60+ data from Annual Report 2025 three-year comparison (2025 column), pp.47-48",2025_IC3Report.pdf
+2025,BEC,Under 20,73,,32,33,"Truncated/invalid monetary amount in source PDF: $15,137,36; not imputed",2025_IC3Report.pdf
+2025,BEC,20 - 29,1250,45754756,32,33,,2025_IC3Report.pdf
+2025,BEC,30 - 39,3619,356707180,32,33,,2025_IC3Report.pdf
+2025,BEC,40 - 49,5090,624292591,32,33,,2025_IC3Report.pdf
+2025,BEC,50 - 59,4910,618105890,32,33,,2025_IC3Report.pdf
+2025,BEC,60+,4566,568048472,47,48,"60+ data from Annual Report 2025 three-year comparison (2025 column), pp.47-48",2025_IC3Report.pdf
+2025,Botnet,Under 20,106,20532,32,33,,2025_IC3Report.pdf
+2025,Botnet,20 - 29,155,53205,32,33,,2025_IC3Report.pdf
+2025,Botnet,30 - 39,137,383680,32,33,,2025_IC3Report.pdf
+2025,Botnet,40 - 49,129,5923019,32,33,,2025_IC3Report.pdf
+2025,Botnet,50 - 59,56,191046,32,33,,2025_IC3Report.pdf
+2025,Botnet,60+,36,945812,47,48,"60+ data from Annual Report 2025 three-year comparison (2025 column), pp.47-48",2025_IC3Report.pdf
+2025,Charity,Under 20,34,41917,32,33,,2025_IC3Report.pdf
+2025,Charity,20 - 29,87,914968,32,33,,2025_IC3Report.pdf
+2025,Charity,30 - 39,114,282824,32,33,,2025_IC3Report.pdf
+2025,Charity,40 - 49,148,323872,32,33,,2025_IC3Report.pdf
+2025,Charity,50 - 59,101,224605,32,33,,2025_IC3Report.pdf
+2025,Charity,60+,126,3474668,47,48,"60+ data from Annual Report 2025 three-year comparison (2025 column), pp.47-48",2025_IC3Report.pdf
+2025,Confidence/Romance,Under 20,393,3057718,32,33,,2025_IC3Report.pdf
+2025,Confidence/Romance,20 - 29,1886,25097693,32,33,,2025_IC3Report.pdf
+2025,Confidence/Romance,30 - 39,2501,42460967,32,33,,2025_IC3Report.pdf
+2025,Confidence/Romance,40 - 49,3010,74644395,32,33,,2025_IC3Report.pdf
+2025,Confidence/Romance,50 - 59,3745,131385454,32,33,,2025_IC3Report.pdf
+2025,Confidence/Romance,60+,10188,584032745,47,48,"60+ data from Annual Report 2025 three-year comparison (2025 column), pp.47-48",2025_IC3Report.pdf
+2025,Credit Card/Check Fraud,Under 20,451,606192,32,33,,2025_IC3Report.pdf
+2025,Credit Card/Check Fraud,20 - 29,1760,6076760,32,33,,2025_IC3Report.pdf
+2025,Credit Card/Check Fraud,30 - 39,2767,32039262,32,33,,2025_IC3Report.pdf
+2025,Credit Card/Check Fraud,40 - 49,2958,49971180,32,33,,2025_IC3Report.pdf
+2025,Credit Card/Check Fraud,50 - 59,2810,43817766,32,33,,2025_IC3Report.pdf
+2025,Credit Card/Check Fraud,60+,5200,71880416,47,48,"60+ data from Annual Report 2025 three-year comparison (2025 column), pp.47-48",2025_IC3Report.pdf
+2025,Data Breach,Under 20,21,1741450,32,33,,2025_IC3Report.pdf
+2025,Data Breach,20 - 29,135,4158310,32,33,,2025_IC3Report.pdf
+2025,Data Breach,30 - 39,443,72145136,32,33,,2025_IC3Report.pdf
+2025,Data Breach,40 - 49,625,64973932,32,33,,2025_IC3Report.pdf
+2025,Data Breach,50 - 59,522,77385567,32,33,,2025_IC3Report.pdf
+2025,Data Breach,60+,350,48555751,47,48,"60+ data from Annual Report 2025 three-year comparison (2025 column), pp.47-48",2025_IC3Report.pdf
+2025,Employment,Under 20,835,1489854,32,33,,2025_IC3Report.pdf
+2025,Employment,20 - 29,4555,33049422,32,33,,2025_IC3Report.pdf
+2025,Employment,30 - 39,5025,42865213,32,33,,2025_IC3Report.pdf
+2025,Employment,40 - 49,4524,57604303,32,33,,2025_IC3Report.pdf
+2025,Employment,50 - 59,3671,100853442,32,33,,2025_IC3Report.pdf
+2025,Employment,60+,2853,78712899,47,48,"60+ data from Annual Report 2025 three-year comparison (2025 column), pp.47-48",2025_IC3Report.pdf
+2025,Extortion,Under 20,13110,1715733,32,33,,2025_IC3Report.pdf
+2025,Extortion,20 - 29,26963,12179028,32,33,,2025_IC3Report.pdf
+2025,Extortion,30 - 39,15866,14964819,32,33,,2025_IC3Report.pdf
+2025,Extortion,40 - 49,11279,13427693,32,33,,2025_IC3Report.pdf
+2025,Extortion,50 - 59,7841,15710381,32,33,,2025_IC3Report.pdf
+2025,Extortion,60+,9111,54309050,47,48,"60+ data from Annual Report 2025 three-year comparison (2025 column), pp.47-48",2025_IC3Report.pdf
+2025,Government Impersonation,Under 20,420,8583219,32,33,,2025_IC3Report.pdf
+2025,Government Impersonation,20 - 29,3401,50358843,32,33,,2025_IC3Report.pdf
+2025,Government Impersonation,30 - 39,5446,82005707,32,33,,2025_IC3Report.pdf
+2025,Government Impersonation,40 - 49,6136,55019630,32,33,,2025_IC3Report.pdf
+2025,Government Impersonation,50 - 59,5636,84516785,32,33,,2025_IC3Report.pdf
+2025,Government Impersonation,60+,8628,413206251,47,48,"60+ data from Annual Report 2025 three-year comparison (2025 column), pp.47-48",2025_IC3Report.pdf
+2025,Harassment/Stalking,Under 20,1827,218229,32,33,,2025_IC3Report.pdf
+2025,Harassment/Stalking,20 - 29,4711,591102,32,33,,2025_IC3Report.pdf
+2025,Harassment/Stalking,30 - 39,5473,5343712,32,33,,2025_IC3Report.pdf
+2025,Harassment/Stalking,40 - 49,4076,6098635,32,33,,2025_IC3Report.pdf
+2025,Harassment/Stalking,50 - 59,2249,4721979,32,33,,2025_IC3Report.pdf
+2025,Harassment/Stalking,60+,1160,3134436,47,48,"60+ data from Annual Report 2025 three-year comparison (2025 column), pp.47-48",2025_IC3Report.pdf
+2025,Identity Theft,Under 20,487,1547663,32,33,,2025_IC3Report.pdf
+2025,Identity Theft,20 - 29,3526,10815080,32,33,,2025_IC3Report.pdf
+2025,Identity Theft,30 - 39,6498,19440941,32,33,,2025_IC3Report.pdf
+2025,Identity Theft,40 - 49,6433,27807082,32,33,,2025_IC3Report.pdf
+2025,Identity Theft,50 - 59,5528,35573535,32,33,,2025_IC3Report.pdf
+2025,Identity Theft,60+,5359,48546133,47,48,"60+ data from Annual Report 2025 three-year comparison (2025 column), pp.47-48",2025_IC3Report.pdf
+2025,Investment,Under 20,901,,32,33,"Truncated/invalid monetary amount in source PDF: $17,022,80; not imputed",2025_IC3Report.pdf
+2025,Investment,20 - 29,6102,,32,33,"Truncated/invalid monetary amount in source PDF: $163,145,27; not imputed",2025_IC3Report.pdf
+2025,Investment,30 - 39,10996,564898178,32,33,,2025_IC3Report.pdf
+2025,Investment,40 - 49,13737,1152243858,32,33,,2025_IC3Report.pdf
+2025,Investment,50 - 59,12773,1748651287,32,33,,2025_IC3Report.pdf
+2025,Investment,60+,16926,3519296354,47,48,"60+ data from Annual Report 2025 three-year comparison (2025 column), pp.47-48",2025_IC3Report.pdf
+2025,IPR/Copyright and Counterfeit,Under 20,70,72650,32,33,,2025_IC3Report.pdf
+2025,IPR/Copyright and Counterfeit,20 - 29,261,377545,32,33,,2025_IC3Report.pdf
+2025,IPR/Copyright and Counterfeit,30 - 39,504,2108962,32,33,,2025_IC3Report.pdf
+2025,IPR/Copyright and Counterfeit,40 - 49,502,14161896,32,33,,2025_IC3Report.pdf
+2025,IPR/Copyright and Counterfeit,50 - 59,359,3270925,32,33,,2025_IC3Report.pdf
+2025,IPR/Copyright and Counterfeit,60+,316,4493512,47,48,"60+ data from Annual Report 2025 three-year comparison (2025 column), pp.47-48",2025_IC3Report.pdf
+2025,Lottery/Sweepstakes/Inheritance,Under 20,75,89050,32,33,,2025_IC3Report.pdf
+2025,Lottery/Sweepstakes/Inheritance,20 - 29,315,2273833,32,33,,2025_IC3Report.pdf
+2025,Lottery/Sweepstakes/Inheritance,30 - 39,528,5047453,32,33,,2025_IC3Report.pdf
+2025,Lottery/Sweepstakes/Inheritance,40 - 49,679,12877295,32,33,,2025_IC3Report.pdf
+2025,Lottery/Sweepstakes/Inheritance,50 - 59,773,19385699,32,33,,2025_IC3Report.pdf
+2025,Lottery/Sweepstakes/Inheritance,60+,2785,136328519,47,48,"60+ data from Annual Report 2025 three-year comparison (2025 column), pp.47-48",2025_IC3Report.pdf
+2025,Malware,Under 20,57,3766,32,33,,2025_IC3Report.pdf
+2025,Malware,20 - 29,159,504839,32,33,,2025_IC3Report.pdf
+2025,Malware,30 - 39,193,1714483,32,33,,2025_IC3Report.pdf
+2025,Malware,40 - 49,147,1998406,32,33,,2025_IC3Report.pdf
+2025,Malware,50 - 59,93,10661574,32,33,,2025_IC3Report.pdf
+2025,Malware,60+,138,3433325,47,48,"60+ data from Annual Report 2025 three-year comparison (2025 column), pp.47-48",2025_IC3Report.pdf
+2025,Non-Payment/Non-Delivery,Under 20,2351,2391036,32,33,,2025_IC3Report.pdf
+2025,Non-Payment/Non-Delivery,20 - 29,8331,37006257,32,33,,2025_IC3Report.pdf
+2025,Non-Payment/Non-Delivery,30 - 39,9947,69016236,32,33,,2025_IC3Report.pdf
+2025,Non-Payment/Non-Delivery,40 - 49,9981,97620771,32,33,,2025_IC3Report.pdf
+2025,Non-Payment/Non-Delivery,50 - 59,8158,73863630,32,33,,2025_IC3Report.pdf
+2025,Non-Payment/Non-Delivery,60+,9743,127041813,47,48,"60+ data from Annual Report 2025 three-year comparison (2025 column), pp.47-48",2025_IC3Report.pdf
+2025,Other,Under 20,2159,2616321,32,33,,2025_IC3Report.pdf
+2025,Other,20 - 29,2864,12967479,32,33,,2025_IC3Report.pdf
+2025,Other,30 - 39,3938,58543283,32,33,,2025_IC3Report.pdf
+2025,Other,40 - 49,3659,96902505,32,33,,2025_IC3Report.pdf
+2025,Other,50 - 59,2620,85195234,32,33,,2025_IC3Report.pdf
+2025,Other,60+,3001,153412996,47,48,"60+ data from Annual Report 2025 three-year comparison (2025 column), pp.47-48",2025_IC3Report.pdf
+2025,Overpayment,Under 20,304,181495,32,33,,2025_IC3Report.pdf
+2025,Overpayment,20 - 29,350,783264,32,33,,2025_IC3Report.pdf
+2025,Overpayment,30 - 39,294,3937790,32,33,,2025_IC3Report.pdf
+2025,Overpayment,40 - 49,295,2601879,32,33,,2025_IC3Report.pdf
+2025,Overpayment,50 - 59,310,2301154,32,33,,2025_IC3Report.pdf
+2025,Overpayment,60+,477,8045862,47,48,"60+ data from Annual Report 2025 three-year comparison (2025 column), pp.47-48",2025_IC3Report.pdf
+2025,Personal Data Breach,Under 20,2601,7314429,32,33,,2025_IC3Report.pdf
+2025,Personal Data Breach,20 - 29,7877,86102381,32,33,,2025_IC3Report.pdf
+2025,Personal Data Breach,30 - 39,13238,173434730,32,33,,2025_IC3Report.pdf
+2025,Personal Data Breach,40 - 49,13403,241244329,32,33,,2025_IC3Report.pdf
+2025,Personal Data Breach,50 - 59,9703,225239544,32,33,,2025_IC3Report.pdf
+2025,Personal Data Breach,60+,11705,324470413,47,48,"60+ data from Annual Report 2025 three-year comparison (2025 column), pp.47-48",2025_IC3Report.pdf
+2025,Phishing/Spoofing,Under 20,2380,360429,32,33,,2025_IC3Report.pdf
+2025,Phishing/Spoofing,20 - 29,19765,7954797,32,33,,2025_IC3Report.pdf
+2025,Phishing/Spoofing,30 - 39,27433,32669619,32,33,,2025_IC3Report.pdf
+2025,Phishing/Spoofing,40 - 49,27800,33063856,32,33,,2025_IC3Report.pdf
+2025,Phishing/Spoofing,50 - 59,26782,30918367,32,33,,2025_IC3Report.pdf
+2025,Phishing/Spoofing,60+,48064,77020936,47,48,"60+ data from Annual Report 2025 three-year comparison (2025 column), pp.47-48",2025_IC3Report.pdf
+2025,Ransomware,Under 20,15,0,32,33,,2025_IC3Report.pdf
+2025,Ransomware,20 - 29,67,2956745,32,33,,2025_IC3Report.pdf
+2025,Ransomware,30 - 39,204,821075,32,33,,2025_IC3Report.pdf
+2025,Ransomware,40 - 49,427,6918385,32,33,,2025_IC3Report.pdf
+2025,Ransomware,50 - 59,457,5394639,32,33,,2025_IC3Report.pdf
+2025,Ransomware,60+,358,5644789,47,48,"60+ data from Annual Report 2025 three-year comparison (2025 column), pp.47-48",2025_IC3Report.pdf
+2025,Real Estate,Under 20,158,189875,32,33,,2025_IC3Report.pdf
+2025,Real Estate,20 - 29,1986,7294459,32,33,,2025_IC3Report.pdf
+2025,Real Estate,30 - 39,2189,23316890,32,33,,2025_IC3Report.pdf
+2025,Real Estate,40 - 49,2037,33724892,32,33,,2025_IC3Report.pdf
+2025,Real Estate,50 - 59,2036,46373027,32,33,,2025_IC3Report.pdf
+2025,Real Estate,60+,2473,123671936,47,48,"60+ data from Annual Report 2025 three-year comparison (2025 column), pp.47-48",2025_IC3Report.pdf
+2025,SIM Swap,Under 20,6,6303,32,33,,2025_IC3Report.pdf
+2025,SIM Swap,20 - 29,61,153247,32,33,,2025_IC3Report.pdf
+2025,SIM Swap,30 - 39,162,796329,32,33,,2025_IC3Report.pdf
+2025,SIM Swap,40 - 49,210,3399856,32,33,,2025_IC3Report.pdf
+2025,SIM Swap,50 - 59,194,2698369,32,33,,2025_IC3Report.pdf
+2025,SIM Swap,60+,222,6741791,47,48,"60+ data from Annual Report 2025 three-year comparison (2025 column), pp.47-48",2025_IC3Report.pdf
+2025,Tech/Customer Support,Under 20,405,2328729,32,33,,2025_IC3Report.pdf
+2025,Tech/Customer Support,20 - 29,3045,45718725,32,33,,2025_IC3Report.pdf
+2025,Tech/Customer Support,30 - 39,4864,119274031,32,33,,2025_IC3Report.pdf
+2025,Tech/Customer Support,40 - 49,5182,261313644,32,33,,2025_IC3Report.pdf
+2025,Tech/Customer Support,50 - 59,5512,283494484,32,33,,2025_IC3Report.pdf
+2025,Tech/Customer Support,60+,21334,1040879243,47,48,"60+ data from Annual Report 2025 three-year comparison (2025 column), pp.47-48",2025_IC3Report.pdf
+2025,Threats of Violence,Under 20,508,40982,32,33,,2025_IC3Report.pdf
+2025,Threats of Violence,20 - 29,1045,159365,32,33,,2025_IC3Report.pdf
+2025,Threats of Violence,30 - 39,1084,7335885,32,33,,2025_IC3Report.pdf
+2025,Threats of Violence,40 - 49,829,454130,32,33,,2025_IC3Report.pdf
+2025,Threats of Violence,50 - 59,531,239803,32,33,,2025_IC3Report.pdf
+2025,Threats of Violence,60+,348,244840,47,48,"60+ data from Annual Report 2025 three-year comparison (2025 column), pp.47-48",2025_IC3Report.pdf
