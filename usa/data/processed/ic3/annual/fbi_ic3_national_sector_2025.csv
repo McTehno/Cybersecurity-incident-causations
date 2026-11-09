@@ -1,0 +1,17 @@
+﻿year,sector,data_breach_complaints,ransomware_complaints,source_report,source_page,extraction_method
+2025,Dams,1,0,2025 IC3 Annual Report,16,manually_transcribed_chart
+2025,Nuclear,1,0,2025 IC3 Annual Report,16,manually_transcribed_chart
+2025,Emergency Services,17,24,2025 IC3 Annual Report,16,manually_transcribed_chart
+2025,Water/Wastewater,11,25,2025 IC3 Annual Report,16,manually_transcribed_chart
+2025,Defense Industrial Base,9,34,2025 IC3 Annual Report,16,manually_transcribed_chart
+2025,Communications,28,51,2025 IC3 Annual Report,16,manually_transcribed_chart
+2025,Energy,31,54,2025 IC3 Annual Report,16,manually_transcribed_chart
+2025,Chemical,8,59,2025 IC3 Annual Report,16,manually_transcribed_chart
+2025,Transportation,82,80,2025 IC3 Annual Report,16,manually_transcribed_chart
+2025,Food and Agriculture,51,89,2025 IC3 Annual Report,16,manually_transcribed_chart
+2025,Commercial Facilities,84,164,2025 IC3 Annual Report,16,manually_transcribed_chart
+2025,Information Technology,199,232,2025 IC3 Annual Report,16,manually_transcribed_chart
+2025,Government Facilities,174,233,2025 IC3 Annual Report,16,manually_transcribed_chart
+2025,Financial Services,189,258,2025 IC3 Annual Report,16,manually_transcribed_chart
+2025,Critical Manufacturing,52,355,2025 IC3 Annual Report,16,manually_transcribed_chart
+2025,Healthcare and Public Health,182,460,2025 IC3 Annual Report,16,manually_transcribed_chart
