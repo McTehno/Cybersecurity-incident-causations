@@ -1,0 +1,29 @@
+﻿year,crime_type,category_kind,complaints,loss_usd,source_report,source_page_complaints,source_page_loss
+2025,Advanced Fee,crime_type,105,1642712,FBI IC3 Annual Report 2025,41,42
+2025,BEC,crime_type,135,30256592,FBI IC3 Annual Report 2025,41,42
+2025,Botnet,crime_type,12,697226,FBI IC3 Annual Report 2025,41,42
+2025,Charity,crime_type,19,531455,FBI IC3 Annual Report 2025,41,42
+2025,Confidence/Romance,crime_type,626,19041653,FBI IC3 Annual Report 2025,41,42
+2025,Credit Card/Check Fraud,crime_type,139,1836105,FBI IC3 Annual Report 2025,41,42
+2025,Crimes Against Children,descriptor,214,9866,FBI IC3 Annual Report 2025,41,42
+2025,Cryptocurrency,descriptor,7623,658714247,FBI IC3 Annual Report 2025,41,42
+2025,Data Breach,crime_type,60,4319380,FBI IC3 Annual Report 2025,41,42
+2025,Employment,crime_type,691,12550185,FBI IC3 Annual Report 2025,41,42
+2025,Extortion,crime_type,1764,2940642,FBI IC3 Annual Report 2025,41,42
+2025,Government Impersonation,crime_type,260,7061628,FBI IC3 Annual Report 2025,41,42
+2025,Harassment/Stalking,crime_type,763,1445378,FBI IC3 Annual Report 2025,41,42
+2025,IPR/Copyright and Counterfeit,crime_type,63,10103789,FBI IC3 Annual Report 2025,41,42
+2025,Identity Theft,crime_type,460,1643308,FBI IC3 Annual Report 2025,41,42
+2025,Investment,crime_type,4356,632041188,FBI IC3 Annual Report 2025,41,42
+2025,Lottery/Sweepstakes/Inheritance,crime_type,54,4486965,FBI IC3 Annual Report 2025,41,42
+2025,Malware,crime_type,42,1248199,FBI IC3 Annual Report 2025,41,42
+2025,Non-Payment/Non-Delivery,crime_type,609,3726777,FBI IC3 Annual Report 2025,41,42
+2025,Other,crime_type,504,11750591,FBI IC3 Annual Report 2025,41,42
+2025,Overpayment,crime_type,13,4719,FBI IC3 Annual Report 2025,41,42
+2025,Personal Data Breach,crime_type,1204,18767964,FBI IC3 Annual Report 2025,41,42
+2025,Phishing/Spoofing,crime_type,803,10283732,FBI IC3 Annual Report 2025,41,42
+2025,Ransomware,crime_type,16,0,FBI IC3 Annual Report 2025,41,42
+2025,Real Estate,crime_type,115,2699085,FBI IC3 Annual Report 2025,41,42
+2025,SIM Swap,crime_type,14,13082,FBI IC3 Annual Report 2025,41,42
+2025,Tech/Customer Support,crime_type,574,19457078,FBI IC3 Annual Report 2025,41,42
+2025,Threats of Violence,crime_type,95,9576,FBI IC3 Annual Report 2025,41,42
