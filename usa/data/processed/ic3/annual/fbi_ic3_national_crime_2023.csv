@@ -1,0 +1,29 @@
+﻿year,crime_type,category_kind,complaints,loss_usd,count_source_page,loss_source_page,source_report
+2023,Advanced Fee,crime_type,8045,134516577,20,21,2023_IC3Report.pdf
+2023,BEC,crime_type,21489,2946830270,20,21,2023_IC3Report.pdf
+2023,Botnet,crime_type,540,22422708,20,21,2023_IC3Report.pdf
+2023,Confidence/Romance,crime_type,17823,652544805,20,21,2023_IC3Report.pdf
+2023,Credit Card/Check Fraud,crime_type,13718,173627614,20,21,2023_IC3Report.pdf
+2023,Crimes Against Children,crime_type,2361,2031485,20,21,2023_IC3Report.pdf
+2023,Cryptocurrency,descriptor,43653,3809090856,20,21,2023_IC3Report.pdf
+2023,Cryptocurrency Wallet,descriptor,25815,1778399729,20,21,2023_IC3Report.pdf
+2023,Data Breach,crime_type,3727,534397222,20,21,2023_IC3Report.pdf
+2023,Employment,crime_type,15443,70234079,20,21,2023_IC3Report.pdf
+2023,Extortion,crime_type,48223,74821835,20,21,2023_IC3Report.pdf
+2023,Government Impersonation,crime_type,14190,394050518,20,21,2023_IC3Report.pdf
+2023,Harassment/Stalking,crime_type,9587,9677332,20,21,2023_IC3Report.pdf
+2023,IPR/Copyright and Counterfeit,crime_type,1498,7555329,20,21,2023_IC3Report.pdf
+2023,Identity Theft,crime_type,19778,126203809,20,21,2023_IC3Report.pdf
+2023,Investment,crime_type,39570,4570275683,20,21,2023_IC3Report.pdf
+2023,Lottery/Sweepstakes/Inheritance,crime_type,4168,94502836,20,21,2023_IC3Report.pdf
+2023,Malware,crime_type,659,1213317,20,21,2023_IC3Report.pdf
+2023,Non-payment/Non-Delivery,crime_type,50523,309648416,20,21,2023_IC3Report.pdf
+2023,Other,crime_type,8808,240053059,20,21,2023_IC3Report.pdf
+2023,Overpayment,crime_type,4144,27955195,20,21,2023_IC3Report.pdf
+2023,Personal Data Breach,crime_type,55851,744219879,20,21,2023_IC3Report.pdf
+2023,Phishing/Spoofing,crime_type,298878,18728550,20,21,2023_IC3Report.pdf
+2023,Ransomware,crime_type,2825,59641384,20,21,2023_IC3Report.pdf
+2023,Real Estate,crime_type,9521,145243348,20,21,2023_IC3Report.pdf
+2023,SIM Swap,crime_type,1075,48798103,20,21,2023_IC3Report.pdf
+2023,Tech Support,crime_type,37560,924512658,20,21,2023_IC3Report.pdf
+2023,Threats of Violence,crime_type,1697,13531178,20,21,2023_IC3Report.pdf
