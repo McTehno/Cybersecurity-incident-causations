@@ -1,0 +1,30 @@
+﻿year,crime_type,category_kind,complaints,loss_usd,count_source_page,loss_source_page,source_report
+2025,Advanced Fee,crime_type,7762,155910852,25,26,2025_IC3Report.pdf
+2025,BEC,crime_type,24768,3046598558,25,26,2025_IC3Report.pdf
+2025,Botnet,crime_type,715,13859049,25,26,2025_IC3Report.pdf
+2025,Charity,crime_type,662,7907609,25,26,2025_IC3Report.pdf
+2025,Confidence/Romance,crime_type,23159,929287469,25,26,2025_IC3Report.pdf
+2025,Credit Card/Check Fraud,crime_type,18774,282670235,25,26,2025_IC3Report.pdf
+2025,Data Breach,crime_type,3963,435240992,25,26,2025_IC3Report.pdf
+2025,Employment,crime_type,24688,362934762,25,26,2025_IC3Report.pdf
+2025,Extortion,crime_type,89129,122499133,25,26,2025_IC3Report.pdf
+2025,Government Impersonation,crime_type,32424,797943193,25,26,2025_IC3Report.pdf
+2025,Harassment/Stalking,crime_type,21557,27707167,25,26,2025_IC3Report.pdf
+2025,Identity Theft,crime_type,31675,185832657,25,26,2025_IC3Report.pdf
+2025,Investment,crime_type,72984,8648617756,25,26,2025_IC3Report.pdf
+2025,IPR/Copyright and Counterfeit,crime_type,2386,26667006,25,26,2025_IC3Report.pdf
+2025,Lottery/Sweepstakes/Inheritance,crime_type,5623,194147851,25,26,2025_IC3Report.pdf
+2025,Malware,crime_type,893,19370572,25,26,2025_IC3Report.pdf
+2025,Non-Payment/Non-Delivery,crime_type,56478,503373587,25,26,2025_IC3Report.pdf
+2025,Other,crime_type,20031,512146819,25,26,2025_IC3Report.pdf
+2025,Overpayment,crime_type,2194,22898075,25,26,2025_IC3Report.pdf
+2025,Personal Data Breach,crime_type,67456,1314923988,25,26,2025_IC3Report.pdf
+2025,Phishing/Spoofing,crime_type,191561,215843126,25,26,2025_IC3Report.pdf
+2025,Ransomware,crime_type,3611,32320105,25,26,2025_IC3Report.pdf
+2025,Real Estate,crime_type,12368,275110419,25,26,2025_IC3Report.pdf
+2025,SIM Swap,crime_type,971,17366758,25,26,2025_IC3Report.pdf
+2025,Tech/Customer Support,crime_type,47794,2134675818,25,26,2025_IC3Report.pdf
+2025,Threats of Violence,crime_type,4826,9509532,25,26,2025_IC3Report.pdf
+2025,Cryptocurrency,descriptor,181565,11366669732,7,8,2025_IC3Report.pdf
+2025,AI Related,descriptor,22364,893346472,7,8,2025_IC3Report.pdf
+2025,Crimes Against Children,descriptor,7239,6694350,7,8,2025_IC3Report.pdf
