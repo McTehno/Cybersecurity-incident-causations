@@ -1,0 +1,11 @@
+﻿indicator,available_years,total_years,missing_years
+incident_rate,12,12,
+gdp_per_capita,12,12,
+gdp_growth,12,12,
+industry_gdp_pct,12,12,
+services_gdp_pct,12,12,
+unemployment_rate,12,12,
+labor_force_participation,12,12,
+establishment_density,12,12,
+internet_users_pct,11,12,2025
+fixed_broadband_per_100,11,12,2025
