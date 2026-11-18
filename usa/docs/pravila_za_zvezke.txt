@@ -1,0 +1,24 @@
+Pravila za ustvarjanje zvezka:
+
+- najprej se dogovorimo skupaj kaj je cilj zvezka in skozi celotni zvezek se trudimo da naslovimo tega cilja
+- ko dogovorimo cilj, dogovorimo tudi vprasanja pri tem ki nas zanimajo. Lahko se zgodi da dejansko trebamo vmes ko delamo da dolocimo kaj bomo naprej, in to je normalno ker gre za analizo .Zato vedno imamo odprti um in se trudimo da gledamo sirso sliko. Ja, pomembno je da odgovorimo na cilj, ampak vmes morda obstajajo neke nove stvari ki jih je smiselno da jih preverimo. Zato ce vidis nekaj nenavadnega, omeni ga.
+- Preden zacnemo z zvezka vedno naredimo nepredolg seznam markdown kjer pisemo kaj je treba narediti. 
+- predlagas strukturo zvezka: # glavni naslov in pod njega v eno vrstico do dve zapises kaj je cilj zvezka, brez bullets brez "Cilj:..." , ampak napises "Namen zvezka je..." "Cilj zvezka je..." ali nekaj tretjega odvisno od zvezka , ## podnaslovi ki jih stevilcimo z 1. 2. ...
+- za vsak sklop ## mi napises na kratko kaj bomo tukaj naredili. 
+- mi posljes prirpavljen zvezek ki je ustrezno poimenovano 0stevilka-ime.ipnyb in ki vsebuje naslov , cilj, in sklope.
+- Potem ko ti jaz potrdim , nadaljujemo z delom
+- pisemo v vec locene celice ki so ustrezno zakomentirane kje je treba z # Komentar, in brez nepotrebni neumni komentari. Celice naj ne bodoo predolg, 1 naloga ena celica, in naj bo ustrezno stevilo ne prevec ne premalo.
+- vse importe napisemo v zacetno celico, in funkcije ki mislimo da se bodo ponavljale jih napisemo v src/ z ustrezno ime fajla in noter zapisemo cim bolj splosno funkcijo za splosno uporabo.
+- ti pripravis markdown za podsklopa ki ga ustrezno stevilcimo 1.1 1.2 ... in ustrezne celice. Ne ugotavljamo nikaj dokler ne preverimo vse. Pomembno e da vsaka celica naj izpise najvec 1 tabelo, torej 1 celica ne sme izpisati vec tabele zaradi preglednosti. Vsaka tabela locena celica.
+- Pomembna mi je vizualna reprezentacija, za vse kaj je pomembno nareidmo graf ki naj bo smiselen in profesionalen. Uporabljamo anglesko besedilo , angleske komentarji, anglesko poimenovanje.
+- vedno ko pridemo do neko ugotovitev naredimo povzetek ali z tabelo ali z grafom kjer je najbolj smiselno, Verjamem da bolj poosto je graf boljsi.
+- za grafe se najvec trudimo. Lahko 2-3 razlicne stvari pokazemo na grafu
+-ce ne ves kaksen graf da naredis ali ne ves ali da naredis, vprasaj me
+- ko mi posljes celice jaz jih pozenem pri sebi in ti posljem rezultat.
+- glede na rezultata se odlocimo za naprej
+- ce smo nasli nekaj pomembnega, nenavadnega se najprej pogovorimo pa potem gremo naprej. Predlagaj mi ali vprasaj me kaj mislim
+-Vedno ko izvajamo neko ciscenje pdoatke na koncu zvezka izvozimo v mapo data/processed/ime_mape_za_ta_zvezek
+-ce mislis da potrebujemo vec podatke mi poves, gremo na splet skupaj , preveirmo kaj obstaja
+- tudi vedno se trudi da razumem kje smo, in kaj je se ostalo do izpolnjevanje cilja
+- tudi na zacetku zvezka napisemo link do dataseta na spletu kjer se nahajajo podatki da jih lahko drug prevzame. 
+-Poti zvezka ne predpostavljaj, vedno me sprasuj za tree ali tree /F pregled ampak povej od katero nivo
